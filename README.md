@@ -45,36 +45,33 @@ Vous recevez le mail des exports de tables :
     Cordialement,
     Laurent
 
-  Pièces jointes : 
-  erp.xls
-  web.xlsx
+    Pièces jointes : 
+    erp.xls
+    web.xlsx
 
 
 Le mail du tableau de liaisons arrive :
 
-Objet : Fwd: Table de liaison
-
-De : Laurent
-À : Moi
-
+    Objet : Fwd: Table de liaison
+    De : Laurent
+    À : Moi
 ---------- Forwarded message ---------
+    Objet: Table de liaison
+    De : Sylvie
+    À : Laurent
 
-Objet: Table de liaison
-De : Sylvie
-À : Laurent
+    Bonjour Laurent,
+    Comme promis, voici en pièce jointe le fichier Excel qui liste les product_id de l’ERP avec leur référence côté Web. La liste des product_id est exhaustive, mais pour les références côté Web, j’en suis moins sûre... J’ai peiné à rapprocher certaines références.
+    Je suis désolée, mais je me rends compte à l’instant que j’ai également mal nommé la colonne dans le fichier Excel. En fait, la colonne id_web dans mon fichier correspond au SKU des produits dans la boutique en ligne.
+    Je profite également de ce mail pour te remercier de m’avoir permis de faire mon stage avec toi. C’était une expérience formidable, et j’ai vraiment apprécié ton aide bienveillante.
 
-Bonjour Laurent,
+    Merci.
+    À très bientôt.
+    Cordialement,
+    Sylvie
 
-Comme promis, voici en pièce jointe le fichier Excel qui liste les product_id de l’ERP avec leur référence côté Web. La liste des product_id est exhaustive, mais pour les références côté Web, j’en suis moins sûre... J’ai peiné à rapprocher certaines références.
+    Pièce jointe : 
+    liaison.xlsx
 
-Je suis désolée, mais je me rends compte à l’instant que j’ai également mal nommé la colonne dans le fichier Excel. En fait, la colonne id_web dans mon fichier correspond au SKU des produits dans la boutique en ligne.
 
-Je profite également de ce mail pour te remercier de m’avoir permis de faire mon stage avec toi. C’était une expérience formidable, et j’ai vraiment apprécié ton aide bienveillante.
-
-Merci.
-À très bientôt.
-
-Cordialement,
-Sylvie
-
-Pièce jointe : liaison.xlsx
+sdsdsdsd
