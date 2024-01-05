@@ -72,6 +72,3 @@ Le mail du tableau de liaisons arrive :
 
     Pièce jointe : 
     liaison.xlsx
-
-
-sdsdsdsd
