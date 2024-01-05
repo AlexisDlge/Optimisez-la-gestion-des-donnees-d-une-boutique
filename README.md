@@ -55,7 +55,7 @@ Le mail du tableau de liaisons arrive :
     Objet : Fwd: Table de liaison
     De : Laurent
     À : Moi
----------- Forwarded message ---------
+    Forwarded message 
     Objet: Table de liaison
     De : Sylvie
     À : Laurent
