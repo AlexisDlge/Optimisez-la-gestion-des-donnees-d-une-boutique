@@ -5,7 +5,7 @@ Projet 5 de la formation de data analyst de OpenClassrooms
 
 Aujourd’hui est un grand jour, vous commencez votre mission en tant que data analyst freelance chez BottleNeck, un marchand de vin très prestigieux. Votre manager sur cette mission (Laurent) vous accueille chaleureusement et vous propose de partager un petit café avec le reste de l’équipe du service Numérique. L’ambiance est bonne, et vous voilà déjà parfaitement intégré dans cette équipe détendue mais professionnelle.
 
-<img width="614" alt="Logo_fao" src="https://github.com/AlexisDlge/Realisez-une-etude-de-sante-publique/assets/152527939/115fc2b8-4783-4892-b87b-9a693d9fca91"> 
+<img width="614" alt="Logo_fao" src="https://github.com/AlexisDlge/Optimisez-la-gestion-des-donnees-d-une-boutique/assets/152527939/f9135238-ff68-4a66-84d3-1a66e2f6f195"> 
 
 Après les premières présentations, effectuées dans une ambiance des plus conviviales, Laurent vous explique les enjeux de votre première mission :
 
