@@ -33,7 +33,9 @@ Vous recevez le mail des exports de tables :
     À : Moi
 
     Re,
-    Voici les 2 exports dont nous avons parlé ce matin. Tu as le fichier issu de l’ERP (erp.xlsx) et le fichier de la table produit de notre plateforme de vente en ligne (web.xlsx). Je te laisse prendre connaissance de ces éléments.
+    Voici les 2 exports dont nous avons parlé ce matin. 
+    Tu as le fichier issu de l’ERP (erp.xlsx) et le fichier de la table produit de notre plateforme de vente en ligne (web.xlsx). 
+    Je te laisse prendre connaissance de ces éléments.
     Je ne vais pas t’apprendre ton métier mais n’oublie pas les bonnes pratiques : 
     Pas de problème d’encodage
     Tester l’unicité des clés,
@@ -61,9 +63,13 @@ Le mail du tableau de liaisons arrive :
     À : Laurent
 
     Bonjour Laurent,
-    Comme promis, voici en pièce jointe le fichier Excel qui liste les product_id de l’ERP avec leur référence côté Web. La liste des product_id est exhaustive, mais pour les références côté Web, j’en suis moins sûre... J’ai peiné à rapprocher certaines références.
-    Je suis désolée, mais je me rends compte à l’instant que j’ai également mal nommé la colonne dans le fichier Excel. En fait, la colonne id_web dans mon fichier correspond au SKU des produits dans la boutique en ligne.
-    Je profite également de ce mail pour te remercier de m’avoir permis de faire mon stage avec toi. C’était une expérience formidable, et j’ai vraiment apprécié ton aide bienveillante.
+    Comme promis, voici en pièce jointe le fichier Excel qui liste les product_id de l’ERP avec leur référence côté Web. 
+    La liste des product_id est exhaustive, mais pour les références côté Web, j’en suis moins sûre... 
+    J’ai peiné à rapprocher certaines références.
+    Je suis désolée, mais je me rends compte à l’instant que j’ai également mal nommé la colonne dans le fichier Excel. 
+    En fait, la colonne id_web dans mon fichier correspond au SKU des produits dans la boutique en ligne.
+    Je profite également de ce mail pour te remercier de m’avoir permis de faire mon stage avec toi. 
+    C’était une expérience formidable, et j’ai vraiment apprécié ton aide bienveillante.
 
     Merci.
     À très bientôt.
