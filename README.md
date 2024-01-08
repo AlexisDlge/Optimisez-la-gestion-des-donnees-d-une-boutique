@@ -51,7 +51,7 @@ Vous recevez le mail des exports de tables :
     erp.xls
     web.xlsx
 
-**Données : **
+**Données :**
 * [ERP](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DAN_V2_P5/Fichier_erp.xlsx)
 * [WEB](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DAN_V2_P5/Fichier_web.xlsx)
 
@@ -82,7 +82,7 @@ Le mail du tableau de liaisons arrive :
     Pièce jointe : 
     liaison.xlsx
 
-**Données : **
+**Données :**
 * [LIAISON](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DAN_V2_P5/fichier_liaison.xlsx)
 
 <img width="614" alt="IMG_Livrables" src="https://github.com/AlexisDlge/Detectez-des-faux-billets/assets/152527939/86af4a1f-0feb-4235-b2ba-2f685fcaca46">
