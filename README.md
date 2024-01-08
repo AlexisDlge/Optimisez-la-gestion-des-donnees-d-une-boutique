@@ -1,7 +1,7 @@
 # Optimisez-la-gestion-des-donnees-d-une-boutique
 Projet 5 de la formation de data analyst de OpenClassrooms
 
-**Scénario**
+<img width="614" alt="IMG_Scenario" src="https://github.com/AlexisDlge/Detectez-des-faux-billets/assets/152527939/6c949932-3da9-4faa-a408-3d3da4ec7247">
 
 Aujourd’hui est un grand jour, vous commencez votre mission en tant que data analyst freelance chez BottleNeck, un marchand de vin très prestigieux. Votre manager sur cette mission (Laurent) vous accueille chaleureusement et vous propose de partager un petit café avec le reste de l’équipe du service Numérique. L’ambiance est bonne, et vous voilà déjà parfaitement intégré dans cette équipe détendue mais professionnelle.
 
@@ -78,3 +78,27 @@ Le mail du tableau de liaisons arrive :
 
     Pièce jointe : 
     liaison.xlsx
+
+<img width="614" alt="IMG_Livrables" src="https://github.com/AlexisDlge/Detectez-des-faux-billets/assets/152527939/86af4a1f-0feb-4235-b2ba-2f685fcaca46">
+
+* Le notebook R Markdown ou Jupyter.
+
+Pour faciliter votre passage devant le jury, déposez sur la plateforme, dans un dossier zip nommé “Titre_du_projet_nom_prénom”, votre livrable nommé comme suit : Nom_Prénom_n° du livrable_nom du livrable_date de démarrage du projet. Cela donnera : 
+
+* Nom_Prénom_1_notebook_mmaaaa
+
+Par exemple, votre livrable peut être nommé comme suit : Dupont_Jean_1_notebook_012023.
+
+<img width="614" alt="IMG_Soutenance" src="https://github.com/AlexisDlge/Detectez-des-faux-billets/assets/152527939/a1a8bf0e-898d-4fa4-808b-091d870eb595">
+
+Durant la présentation orale, l’évaluateur interprétera le rôle de Laurent, votre manager.
+
+La soutenance est structurée de la manière suivante :
+
+* Présentation des résultats (15 minutes) 
+  - Vous expliquerez l’ensemble de votre démarche. Vous déroulerez votre notebook ou votre présentation au mentor évaluateur, en détaillant bien les actions entreprises pour obtenir un jeu de données final cohérent et complet.
+  - Vous expliquerez également votre analyse univariée et vos conclusions.
+* Discussion (10 minutes) 
+  - L’évaluateur jouera le rôle de Laurent. Il vous posera des questions sur vos livrables.
+* Debrief (5 minutes)
+  - À la fin de la soutenance, l'évaluateur arrêtera de jouer le rôle de Laurent pour vous permettre de débriefer ensemble.
